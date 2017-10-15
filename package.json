@@ -1,0 +1,17 @@
+{
+  "name": "dutch-vocabulary-trainer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.12.0"
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.9"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "words": [
+    {
+      "eng": "I",
+      "rus": "я",
+      "ned": "ik",
+      "part": "pronoun",
+      "id": 1
+    },
+    {
+      "eng": "you",
+      "rus": "ты",
+      "ned": "u",
+      "part": "pronoun",
+      "id": 2
+    },
+    {
+      "eng": "we",
+      "rus": "мы",
+      "ned": "wij",
+      "part": "pronoun",
+      "id": 3
+    },
+    {
+      "rus": "test",
+      "eng": "test",
+      "dut": "test",
+      "id": 4
+    }
+  ]
+}
